@@ -1,0 +1,15 @@
+{
+  "name": "Brick City",
+  "symbol": "BCTY",
+  "description": "Brick City Baby!",
+  "image": "https://raw.githubusercontent.com/shinmantis/minting/refs/heads/main/brick-hd-png-brick-wallpaper-red-awesome-1920.jpg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/shinmantis/minting/refs/heads/main/brick-hd-png-brick-wallpaper-red-awesome-1920.jpg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
