@@ -2,7 +2,7 @@
   "name": "Shadow Brick",
   "symbol": "SBRK",
   "description": "A Rare Brick",
-  "image": "https://github.com/shinmantis/minting/blob/main/brick-png-image-2502.png",
+  "image": "https://raw.githubusercontent.com/shinmantis/minting/refs/heads/main/brick-png-image-2502.png",
   "attributes": [
     {
       "trait_type": "Color",
@@ -12,7 +12,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/shinmantis/minting/blob/main/brick-png-image-2502.png",
+        "uri": "https://raw.githubusercontent.com/shinmantis/minting/refs/heads/main/brick-png-image-2502.png",
         "type": "image/png"
       }
     ],
